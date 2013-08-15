@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/DeveloperGarden/ConferenceCall
+END
+ConferenceDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/DeveloperGarden/ConferenceCall/ConferenceDetail.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/DeveloperGarden/ConferenceCall/Exception.php
+END
+ConferenceAccount.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/DeveloperGarden/ConferenceCall/ConferenceAccount.php
+END
+ConferenceSchedule.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/DeveloperGarden/ConferenceCall/ConferenceSchedule.php
+END
+Participant.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/DeveloperGarden/ConferenceCall/Participant.php
+END
+ParticipantDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/DeveloperGarden/ConferenceCall/ParticipantDetail.php
+END
+ParticipantStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/DeveloperGarden/ConferenceCall/ParticipantStatus.php
+END

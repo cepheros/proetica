@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/class.phpmailer.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/LICENSE
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/class.pop3.php
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/changelog.txt
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/class.smtp.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/README
+END
+aboutus.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/aboutus.html
+END

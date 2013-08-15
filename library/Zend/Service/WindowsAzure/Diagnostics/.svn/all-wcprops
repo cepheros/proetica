@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics
+END
+DirectoryConfigurationSubscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/DirectoryConfigurationSubscription.php
+END
+ConfigurationWindowsEventLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationWindowsEventLog.php
+END
+ConfigurationDataSources.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationDataSources.php
+END
+ConfigurationObjectBaseAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationObjectBaseAbstract.php
+END
+PerformanceCounterSubscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/PerformanceCounterSubscription.php
+END
+ConfigurationInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationInstance.php
+END
+Manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/Manager.php
+END
+ConfigurationDiagnosticInfrastructureLogs.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationDiagnosticInfrastructureLogs.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/Exception.php
+END
+LogLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/LogLevel.php
+END
+ConfigurationPerformanceCounters.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationPerformanceCounters.php
+END
+ConfigurationDirectories.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationDirectories.php
+END
+ConfigurationLogs.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationLogs.php
+END

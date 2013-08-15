@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Soap/Client
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Soap/Client/Common.php
+END
+Local.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Soap/Client/Local.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Soap/Client/Exception.php
+END
+DotNet.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Soap/Client/DotNet.php
+END

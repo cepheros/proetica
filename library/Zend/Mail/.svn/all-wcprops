@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Message.php
+END
+Storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Storage.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Exception.php
+END
+Part.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Part.php
+END

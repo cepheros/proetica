@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Ldap/Node
+END
+ChildrenIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Ldap/Node/ChildrenIterator.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Ldap/Node/Collection.php
+END
+Schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Ldap/Node/Schema.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Ldap/Node/Abstract.php
+END
+RootDse.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Ldap/Node/RootDse.php
+END

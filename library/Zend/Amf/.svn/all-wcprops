@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Amf
+END
+Constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Amf/Constants.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Amf/Exception.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Amf/Request.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Amf/Response.php
+END
+Server.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Amf/Server.php
+END

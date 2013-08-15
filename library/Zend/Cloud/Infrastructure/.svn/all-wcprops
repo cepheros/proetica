@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/Infrastructure
+END
+ImageList.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/Infrastructure/ImageList.php
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/Infrastructure/Factory.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/Infrastructure/Image.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/Infrastructure/Adapter.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/Infrastructure/Exception.php
+END
+InstanceList.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/Infrastructure/InstanceList.php
+END
+Instance.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/Infrastructure/Instance.php
+END

@@ -1,0 +1,71 @@
+10
+
+dir
+28
+http://svn.r2d2/proetica/SysAdmin/application/modules/dashboard
+http://svn.r2d2/proetica
+
+
+
+2013-05-15T19:44:24.141541Z
+23
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b40e16fd-1a4e-4fbe-98cc-2360eebe436e
+
+Bootstrap.php
+file
+
+
+
+
+2012-10-12T15:51:20.775000Z
+bc07b7f3a48e65c9f6ac8cfc969d2e7a
+2013-05-15T19:44:24.141541Z
+23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+93
+
+controllers
+dir
+
+models
+dir
+
+views
+dir
+

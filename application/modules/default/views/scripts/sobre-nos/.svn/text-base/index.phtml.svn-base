@@ -1,0 +1,51 @@
+<section id="headline2">
+<div class="container">
+<h3><?php echo $this->content->titulopagina ?> <?php if($this->content->smalltitle <> ''){ ?><small><?php echo $this->content->smalltitle ?></small> <?php } ?></h3>
+</div>
+</section>
+<section class="container" >
+<?php echo $this->content->conteudo ?>
+
+<div class="vertical-space1"></div>
+
+<div class="callout">
+<a class="callurl" href="#">Abrir</a>
+<h4>Canal de Comunicação</h4>
+<p>O canal de comunicações  tem como objetivo informar aos gestores do projeto situações de desvio de conduta de funcionários e colaboradores e também sugestões de melhorias</p>
+</div>
+
+</section><!-- container -->
+
+<script>
+$().ready(function(){
+
+var $container = $('.acc-container'),
+	$trigger   = $('.acc-trigger');
+
+$container.hide();
+$trigger.first().addClass('active').next().show();
+
+var fullWidth = $container.outerWidth(true);
+$trigger.css('width', fullWidth);
+$container.css('width', fullWidth);
+
+$trigger.on('click', function(e) {
+	if( $(this).next().is(':hidden') ) {
+		$trigger.removeClass('active').next().slideUp(300);
+		$(this).toggleClass('active').next().slideDown(300);
+	}
+	e.preventDefault();
+});
+
+// Resize
+$(window).on('resize', function() {
+	fullWidth = $container.outerWidth(true)
+	$trigger.css('width', $trigger.parent().width() );
+	$container.css('width', $container.parent().width() );
+});
+
+});
+
+
+
+</script>

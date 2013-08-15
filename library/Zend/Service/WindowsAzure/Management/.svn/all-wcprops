@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management
+END
+OperatingSystemFamilyInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/OperatingSystemFamilyInstance.php
+END
+DeploymentInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/DeploymentInstance.php
+END
+LocationInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/LocationInstance.php
+END
+ServiceEntityAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/ServiceEntityAbstract.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/Client.php
+END
+AffinityGroupInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/AffinityGroupInstance.php
+END
+CertificateInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/CertificateInstance.php
+END
+OperationStatusInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/OperationStatusInstance.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/Exception.php
+END
+StorageServiceInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/StorageServiceInstance.php
+END
+SubscriptionOperationInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/SubscriptionOperationInstance.php
+END
+HostedServiceInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/HostedServiceInstance.php
+END
+OperatingSystemInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/Management/OperatingSystemInstance.php
+END

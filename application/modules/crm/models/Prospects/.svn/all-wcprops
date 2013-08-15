@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/proetica/!svn/ver/23/SysAdmin/application/modules/crm/models/Prospects
+END
+Checklist.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/proetica/!svn/ver/23/SysAdmin/application/modules/crm/models/Prospects/Checklist.php
+END
+EstagioProposta.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/proetica/!svn/ver/23/SysAdmin/application/modules/crm/models/Prospects/EstagioProposta.php
+END
+TiposNegocios.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/proetica/!svn/ver/23/SysAdmin/application/modules/crm/models/Prospects/TiposNegocios.php
+END
+ChecklistItens.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/proetica/!svn/ver/23/SysAdmin/application/modules/crm/models/Prospects/ChecklistItens.php
+END
+Updates.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/proetica/!svn/ver/23/SysAdmin/application/modules/crm/models/Prospects/Updates.php
+END
+Basico.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/proetica/!svn/ver/23/SysAdmin/application/modules/crm/models/Prospects/Basico.php
+END
+Estagios.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/proetica/!svn/ver/23/SysAdmin/application/modules/crm/models/Prospects/Estagios.php
+END
+Notes.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/proetica/!svn/ver/23/SysAdmin/application/modules/crm/models/Prospects/Notes.php
+END
+FontesPropostas.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/proetica/!svn/ver/23/SysAdmin/application/modules/crm/models/Prospects/FontesPropostas.php
+END

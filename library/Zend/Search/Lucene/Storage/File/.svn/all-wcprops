@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Search/Lucene/Storage/File
+END
+Filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Search/Lucene/Storage/File/Filesystem.php
+END
+Memory.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Search/Lucene/Storage/File/Memory.php
+END

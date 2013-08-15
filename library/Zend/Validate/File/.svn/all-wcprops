@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File
+END
+FilesSize.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/FilesSize.php
+END
+Exists.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/Exists.php
+END
+ImageSize.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/ImageSize.php
+END
+Md5.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/Md5.php
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/Extension.php
+END
+Size.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/Size.php
+END
+Upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/Upload.php
+END
+ExcludeExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/ExcludeExtension.php
+END
+Sha1.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/Sha1.php
+END
+WordCount.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/WordCount.php
+END
+ExcludeMimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/ExcludeMimeType.php
+END
+IsCompressed.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/IsCompressed.php
+END
+Hash.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/Hash.php
+END
+MimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/MimeType.php
+END
+Count.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/Count.php
+END
+NotExists.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/NotExists.php
+END
+IsImage.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/IsImage.php
+END
+Crc32.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/File/Crc32.php
+END

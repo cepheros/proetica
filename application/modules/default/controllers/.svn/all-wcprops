@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/proetica/!svn/ver/26/SysAdmin/application/modules/default/controllers
+END
+CadastrosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/proetica/!svn/ver/23/SysAdmin/application/modules/default/controllers/CadastrosController.php
+END
+ContatoController.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/proetica/!svn/ver/23/SysAdmin/application/modules/default/controllers/ContatoController.php
+END
+CronController.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/proetica/!svn/ver/23/SysAdmin/application/modules/default/controllers/CronController.php
+END
+PesquisasController.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/proetica/!svn/ver/23/SysAdmin/application/modules/default/controllers/PesquisasController.php
+END
+DocumentosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/proetica/!svn/ver/23/SysAdmin/application/modules/default/controllers/DocumentosController.php
+END
+PropostasController.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/proetica/!svn/ver/23/SysAdmin/application/modules/default/controllers/PropostasController.php
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/proetica/!svn/ver/23/SysAdmin/application/modules/default/controllers/IndexController.php
+END
+ComunicacaoController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/proetica/!svn/ver/23/SysAdmin/application/modules/default/controllers/ComunicacaoController.php
+END
+ServicosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/proetica/!svn/ver/23/SysAdmin/application/modules/default/controllers/ServicosController.php
+END
+ErrorController.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/proetica/!svn/ver/23/SysAdmin/application/modules/default/controllers/ErrorController.php
+END
+LoginController.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/proetica/!svn/ver/23/SysAdmin/application/modules/default/controllers/LoginController.php
+END
+SobreNosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/proetica/!svn/ver/26/SysAdmin/application/modules/default/controllers/SobreNosController.php
+END

@@ -1,0 +1,90 @@
+<section id="headline2">
+<div class="container">
+<h3>Rede Ética
+<small>Cadastre-se agora mesmo:</small></h3>
+</div>
+</section>
+<section class="container page-content" >
+
+<div class="vertical-space3"></div>
+
+
+<div class="contact-form">
+<div class="clr"></div>
+
+<form action="" method="post" id="frmContact">
+
+
+
+<fieldset>
+<div class="five columns">
+<label for="nomecompleto">Nome</label>
+<input name="nomecompleto" type="text" class="txbx" value="" placeholder="Seu Nome"/>
+</div>
+<div class="five columns">
+<label for="cpf">CPF</label>
+<input name="cpf" type="text" class="txbx" value="" placeholder="000.000.000-00"/>
+</div>
+<div class="five columns">
+<label for="empresa">Empresa</label>
+<input name="empresa" type="text" class="txbx" value="" placeholder="Empresa que você trabalha"/>
+</div>
+</fieldset>
+<fieldset>
+<div class="five columns">
+<label for="email">Email</label>
+<input name="email" type="text" class="txbx" value="" placeholder="Seu Email"/>
+</div>
+<div class="five columns">
+<label for="email">Senha</label>
+<input name="email" type="password" class="txbx" value="" placeholder="Escolha uma senha"/>
+</div>
+<div class="five columns">
+<label for="email">Repita a senha</label>
+<input name="email" type="password" class="txbx" value="" placeholder="Repita a senha"/>
+</div>
+</fieldset>
+<fieldset>
+<div class="five columns">
+<label for="empresa">Telefone Comercial</label>
+<input name="empresa" type="text" class="txbx" value="" placeholder="(00) 0000-0000"/>
+</div>
+<div class="five columns">
+<label for="email">Telefone Residencial</label>
+<input name="email" type="text" class="txbx" value="" placeholder="(00) 0000-0000"/>
+</div>
+<div class="five columns">
+<label for="email">Telefone Celular</label>
+<input name="email" type="text" class="txbx" value="" placeholder="(00) 0000-0000"/>
+</div>
+</fieldset>
+<fieldset>
+<div class="five columns">
+<label for="empresa">Deseja Receber Emails Informativos?</label><br>
+<label><input name="contaestoque" id="contaestoque-1" value="1" type="radio">Sim</label> <label><input checked="checked" name="contaestoque" id="contaestoque-0" value="0" type="radio">Não</label>
+<br>
+</div>
+<div class="five columns">
+<label for="email">Deseja Receber Noticias por SMS?</label><br>
+<label><input name="contaestoque" id="contaestoque-1" value="1" type="radio">Sim</label> <label><input checked="checked" name="contaestoque" id="contaestoque-0" value="0" type="radio">Não</label>
+<br>
+</div>
+<div class="five columns">
+<label for="email">A Empresa que você trabalha possui código de ética?</label><br>
+<label><input name="contaestoque" id="contaestoque-1" value="1" type="radio">Sim</label> <label><input checked="checked" name="contaestoque" id="contaestoque-0" value="0" type="radio">Não</label>
+<br>
+</div>
+</fieldset>
+<fieldset>
+<h5>Informações Adicionais. Sugestões, Dúvidas ou Reclamações:</h5>
+<textarea name="txtText" cols="" rows="" class="txbx era" ></textarea><br />
+<input name="" type="button" class="sendbtn" value="Salvar Cadastro" id="btnSend"/>
+
+</fieldset>
+</form>
+
+<div class="vertical-space3"></div>
+
+</section>
+
+

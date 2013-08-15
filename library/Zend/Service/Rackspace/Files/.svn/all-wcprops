@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/Rackspace/Files
+END
+ObjectList.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/Rackspace/Files/ObjectList.php
+END
+ContainerList.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/Rackspace/Files/ContainerList.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/Rackspace/Files/Exception.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/Rackspace/Files/Object.php
+END
+Container.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/Rackspace/Files/Container.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/proetica/!svn/ver/23/SysAdmin/library/Zend/TimeSync
+END
+Sntp.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/proetica/!svn/ver/23/SysAdmin/library/Zend/TimeSync/Sntp.php
+END
+Protocol.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/TimeSync/Protocol.php
+END
+Ntp.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/proetica/!svn/ver/23/SysAdmin/library/Zend/TimeSync/Ntp.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/Zend/TimeSync/Exception.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mobile/Push/Exception
+END
+InvalidPayload.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mobile/Push/Exception/InvalidPayload.php
+END
+InvalidTopic.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mobile/Push/Exception/InvalidTopic.php
+END
+InvalidAuthToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mobile/Push/Exception/InvalidAuthToken.php
+END
+QuotaExceeded.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mobile/Push/Exception/QuotaExceeded.php
+END
+ServerUnavailable.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mobile/Push/Exception/ServerUnavailable.php
+END
+InvalidRegistration.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mobile/Push/Exception/InvalidRegistration.php
+END
+InvalidToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mobile/Push/Exception/InvalidToken.php
+END
+DeviceQuotaExceeded.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mobile/Push/Exception/DeviceQuotaExceeded.php
+END

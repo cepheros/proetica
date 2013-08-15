@@ -1,0 +1,59 @@
+         <link href="/quiz/css/reset.css" media="screen" rel="stylesheet" type="text/css">
+        <link href="/quiz/css/slickQuiz.css" media="screen" rel="stylesheet" type="text/css">
+        <link href="/quiz/css/master.css" media="screen" rel="stylesheet" type="text/css">
+       <script src="/quiz/js/slickQuiz.js"></script>
+     <style>
+label,input {
+    vertical-align:middle;
+}
+label {
+    display:inline; /* display:block; and float:left; are useless */
+    margin:0 5px 0 0; /* same for margin-top */
+}
+input {
+    height:auto;
+}
+         
+         </style>
+            
+        <section id="headline2">
+<div class="container">
+<h3>Quiz PróÉtica</small></h3>
+</div>
+</section>
+
+<section class="container" >
+<div class="vertical-space1"></div>
+        <div id="slickQuiz">
+         <h1 class="quizName"><!-- where the quiz name goes --></h1>
+
+        <div class="quizArea">
+            <div class="quizHeader">
+                <!-- where the quiz main copy goes -->
+                <div class="vertical-space1"></div>
+                <a class="button startQuiz" href="#">Iniciar</a>
+            </div>
+
+            <!-- where the quiz gets built -->
+        </div>
+
+        <div class="quizResults">
+            <h3 class="quizScore">Sua Pontuação: <span><!-- where the quiz score goes --></span></h3>
+
+            <h3 class="quizLevel"><strong>Resultado:</strong> <span><!-- where the quiz ranking level goes --></span></h3>
+
+            <div class="quizResultsCopy">
+                <!-- where the quiz result copy goes -->
+            </div>
+        </div>
+        </div>
+        </section>
+        <script>
+        var quizJSON = <?php echo $this->quiz?>;
+        $(function () {
+	
+		
+	$('#slickQuiz').slickQuiz({checkAnswerText:"Verificar Resposta",nextQuestionText: "Próxima", completionResponseMessaging: true});
+});
+
+        </script>

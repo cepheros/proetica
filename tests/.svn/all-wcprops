@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/proetica/!svn/ver/23/SysAdmin/tests
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/proetica/!svn/ver/23/SysAdmin/tests/phpunit.xml
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/proetica/!svn/ver/23/SysAdmin/tests/bootstrap.php
+END

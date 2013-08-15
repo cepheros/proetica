@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples
+END
+test_pop_before_smtp_advanced.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_pop_before_smtp_advanced.php
+END
+test_db_smtp_basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_db_smtp_basic.php
+END
+test_smtp_basic_no_auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_smtp_basic_no_auth.php
+END
+test_pop_before_smtp_basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_pop_before_smtp_basic.php
+END
+test_sendmail_basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_sendmail_basic.php
+END
+test_mail_advanced.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_mail_advanced.php
+END
+test_smtp_advanced.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_smtp_advanced.php
+END
+test_smtp_gmail_advanced.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_smtp_gmail_advanced.php
+END
+test_smtp_gmail_basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_smtp_gmail_basic.php
+END
+test_smtp_basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_smtp_basic.php
+END
+test_mail_basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_mail_basic.php
+END
+contents.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/contents.html
+END
+test_sendmail_advanced.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_sendmail_advanced.php
+END
+test_smtp_advanced_no_auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PHPMailer/examples/test_smtp_advanced_no_auth.php
+END

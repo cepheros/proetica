@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Auth/Storage
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Auth/Storage/Session.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Auth/Storage/Interface.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Auth/Storage/Exception.php
+END
+NonPersistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Auth/Storage/NonPersistent.php
+END

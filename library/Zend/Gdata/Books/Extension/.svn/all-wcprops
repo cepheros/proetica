@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Gdata/Books/Extension
+END
+ThumbnailLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Gdata/Books/Extension/ThumbnailLink.php
+END
+BooksCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Gdata/Books/Extension/BooksCategory.php
+END
+InfoLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Gdata/Books/Extension/InfoLink.php
+END
+Review.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Gdata/Books/Extension/Review.php
+END
+AnnotationLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Gdata/Books/Extension/AnnotationLink.php
+END
+Embeddability.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Gdata/Books/Extension/Embeddability.php
+END
+PreviewLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Gdata/Books/Extension/PreviewLink.php
+END
+BooksLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Gdata/Books/Extension/BooksLink.php
+END
+Viewability.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Gdata/Books/Extension/Viewability.php
+END

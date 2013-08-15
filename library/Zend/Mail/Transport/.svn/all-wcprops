@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Transport
+END
+Smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Transport/Smtp.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Transport/File.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Transport/Exception.php
+END
+Sendmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Transport/Sendmail.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Transport/Abstract.php
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers
+END
+ProdutosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/ProdutosController.php
+END
+PessoasController.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/PessoasController.php
+END
+RepresentantesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/RepresentantesController.php
+END
+FranqueadosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/FranqueadosController.php
+END
+TransportadorasController.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/TransportadorasController.php
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/IndexController.php
+END
+ServicosRelatoriosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/ServicosRelatoriosController.php
+END
+FornecedoresController.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/FornecedoresController.php
+END
+ServicosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/ServicosController.php
+END
+FuncionariosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/FuncionariosController.php
+END
+ProdutosRelatoriosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/ProdutosRelatoriosController.php
+END
+ClientesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/controllers/ClientesController.php
+END

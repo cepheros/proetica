@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/CommandLine
+END
+Package.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/CommandLine/Package.php
+END
+Certificate.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/CommandLine/Certificate.php
+END
+GetAsynchronousOperation.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/CommandLine/GetAsynchronousOperation.php
+END
+Storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/CommandLine/Storage.php
+END
+Deployment.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/CommandLine/Deployment.php
+END
+Service.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Service/WindowsAzure/CommandLine/Service.php
+END

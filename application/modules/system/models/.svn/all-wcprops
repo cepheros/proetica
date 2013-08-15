@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models
+END
+ChecklistEtapas.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/ChecklistEtapas.php
+END
+Prioridades.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Prioridades.php
+END
+Files.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Files.php
+END
+Tipopessoas.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Tipopessoas.php
+END
+Categoriapessoas.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Categoriapessoas.php
+END
+SMS.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/SMS.php
+END
+Tiposestoques.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Tiposestoques.php
+END
+MensagensSistema.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/MensagensSistema.php
+END
+Centrodecustos.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Centrodecustos.php
+END
+Unidadesdemedida.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Unidadesdemedida.php
+END
+EmpresasNF.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/EmpresasNF.php
+END
+SysConfigs.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/SysConfigs.php
+END
+UsersFavoritos.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/UsersFavoritos.php
+END
+TipoServicos.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/TipoServicos.php
+END
+Tiposcontatos.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Tiposcontatos.php
+END
+Users.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Users.php
+END
+Iss.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Iss.php
+END
+Empresas.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Empresas.php
+END
+Tabeladeprecos.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Tabeladeprecos.php
+END
+Planodecontas.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Planodecontas.php
+END
+Tiposenderecos.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Tiposenderecos.php
+END
+ChecklistBasicos.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/ChecklistBasicos.php
+END
+Messages.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Messages.php
+END
+Categoriaprodutos.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Categoriaprodutos.php
+END
+Subcategoriaprodutos.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Subcategoriaprodutos.php
+END
+Cep.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Cep.php
+END
+Tasks.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Tasks.php
+END
+UsersDeptos.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/UsersDeptos.php
+END
+Menus.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/proetica/!svn/ver/23/SysAdmin/application/modules/system/models/Menus.php
+END

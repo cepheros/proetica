@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/StorageService/Adapter
+END
+FileSystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/StorageService/Adapter/FileSystem.php
+END
+Nirvanix.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/StorageService/Adapter/Nirvanix.php
+END
+WindowsAzure.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/StorageService/Adapter/WindowsAzure.php
+END
+Rackspace.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/StorageService/Adapter/Rackspace.php
+END
+S3.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Cloud/StorageService/Adapter/S3.php
+END

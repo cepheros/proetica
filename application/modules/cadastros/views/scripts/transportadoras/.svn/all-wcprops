@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/transportadoras
+END
+cadastro.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/transportadoras/cadastro.phtml
+END
+novo.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/transportadoras/novo.phtml
+END
+remover.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/transportadoras/remover.phtml
+END
+listar.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/transportadoras/listar.phtml
+END
+index.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/transportadoras/index.phtml
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/proetica/!svn/ver/23/SysAdmin/library/NFe
+END
+NFSePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/proetica/!svn/ver/23/SysAdmin/library/NFe/NFSePHP.class.php
+END
+AutoCTePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/proetica/!svn/ver/23/SysAdmin/library/NFe/AutoCTePHP.class.php
+END
+DacceNFePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/proetica/!svn/ver/23/SysAdmin/library/NFe/DacceNFePHP.class.php
+END
+CommonNFePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/NFe/CommonNFePHP.class.php
+END
+AutoToolsNFePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/proetica/!svn/ver/23/SysAdmin/library/NFe/AutoToolsNFePHP.class.php
+END
+DanfeNFePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/proetica/!svn/ver/23/SysAdmin/library/NFe/DanfeNFePHP.class.php
+END
+ToolsNFePHP.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/proetica/!svn/ver/23/SysAdmin/library/NFe/ToolsNFePHP.php
+END
+PdfNFePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/proetica/!svn/ver/23/SysAdmin/library/NFe/PdfNFePHP.class.php
+END
+ConvertNFePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/NFe/ConvertNFePHP.class.php
+END
+CTeNFePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/proetica/!svn/ver/23/SysAdmin/library/NFe/CTeNFePHP.class.php
+END
+DocumentoNFePHP.interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/proetica/!svn/ver/23/SysAdmin/library/NFe/DocumentoNFePHP.interface.php
+END
+MDFeNFePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/proetica/!svn/ver/23/SysAdmin/library/NFe/MDFeNFePHP.class.php
+END
+DacteNFePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/proetica/!svn/ver/23/SysAdmin/library/NFe/DacteNFePHP.class.php
+END
+MailNFePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/proetica/!svn/ver/23/SysAdmin/library/NFe/MailNFePHP.class.php
+END
+UnConvertNFePHP.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/proetica/!svn/ver/23/SysAdmin/library/NFe/UnConvertNFePHP.class.php
+END

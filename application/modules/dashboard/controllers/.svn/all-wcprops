@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/proetica/!svn/ver/23/SysAdmin/application/modules/dashboard/controllers
+END
+UserController.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/proetica/!svn/ver/23/SysAdmin/application/modules/dashboard/controllers/UserController.php
+END
+MessagesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/proetica/!svn/ver/23/SysAdmin/application/modules/dashboard/controllers/MessagesController.php
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/proetica/!svn/ver/23/SysAdmin/application/modules/dashboard/controllers/IndexController.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Storage
+END
+Maildir.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Storage/Maildir.php
+END
+Folder.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Storage/Folder.php
+END
+Mbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Storage/Mbox.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Storage/Exception.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Storage/Abstract.php
+END
+Pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Storage/Pop3.php
+END
+Imap.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Mail/Storage/Imap.php
+END

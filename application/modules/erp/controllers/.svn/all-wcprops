@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/application/modules/erp/controllers
+END
+FinanceiroController.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/proetica/!svn/ver/23/SysAdmin/application/modules/erp/controllers/FinanceiroController.php
+END
+DesenvolvimentoProdutosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/proetica/!svn/ver/23/SysAdmin/application/modules/erp/controllers/DesenvolvimentoProdutosController.php
+END
+ProducaoController.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/proetica/!svn/ver/23/SysAdmin/application/modules/erp/controllers/ProducaoController.php
+END
+ComprasController.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/proetica/!svn/ver/23/SysAdmin/application/modules/erp/controllers/ComprasController.php
+END
+FaturamentoController.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/proetica/!svn/ver/23/SysAdmin/application/modules/erp/controllers/FaturamentoController.php
+END
+VendasController.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/proetica/!svn/ver/23/SysAdmin/application/modules/erp/controllers/VendasController.php
+END
+EstoqueController.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/proetica/!svn/ver/23/SysAdmin/application/modules/erp/controllers/EstoqueController.php
+END

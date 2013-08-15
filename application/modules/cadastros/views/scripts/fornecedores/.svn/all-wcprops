@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/fornecedores
+END
+cadastro.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/fornecedores/cadastro.phtml
+END
+novo.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/fornecedores/novo.phtml
+END
+remover.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/fornecedores/remover.phtml
+END
+listar.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/fornecedores/listar.phtml
+END
+index.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/proetica/!svn/ver/23/SysAdmin/application/modules/cadastros/views/scripts/fornecedores/index.phtml
+END

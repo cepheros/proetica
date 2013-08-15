@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao
+END
+SVAN_NFeRetRecepcao.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SVAN_NFeRetRecepcao.asmx
+END
+SVAN_NFeCancelamento.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SVAN_NFeCancelamento.asmx
+END
+SVAN_NFeInutilizacao.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SVAN_NFeInutilizacao.asmx
+END
+SCAN_NfeCancelamento.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SCAN_NfeCancelamento.asmx
+END
+SVAN_NfeRecepcao.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SVAN_NfeRecepcao.asmx
+END
+SCAN_NfeInutilizacao.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SCAN_NfeInutilizacao.asmx
+END
+SVAN_nfeconsulta.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SVAN_nfeconsulta.asmx
+END
+SCAN_NfeStatusServico.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SCAN_NfeStatusServico.asmx
+END
+SCAN_NfeRecepcao.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SCAN_NfeRecepcao.asmx
+END
+SCAN_NfeConsulta.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SCAN_NfeConsulta.asmx
+END
+SVAN_NFeStatusServico.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SVAN_NFeStatusServico.asmx
+END
+SCAN_NfeRetRecepcao.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/proetica/!svn/ver/23/SysAdmin/application/configs/NFe/wsdl/1.10/producao/SCAN_NfeRetRecepcao.asmx
+END

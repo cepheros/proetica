@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate
+END
+Isbn.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Isbn.php
+END
+StringLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/StringLength.php
+END
+EmailAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/EmailAddress.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Interface.php
+END
+LessThan.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/LessThan.php
+END
+NotEmpty.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/NotEmpty.php
+END
+Alnum.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Alnum.php
+END
+GreaterThan.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/GreaterThan.php
+END
+Hex.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Hex.php
+END
+Float.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Float.php
+END
+Alpha.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Alpha.php
+END
+Barcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Barcode.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Abstract.php
+END
+Callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Callback.php
+END
+Ccnum.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Ccnum.php
+END
+Digits.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Digits.php
+END
+Iban.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Iban.php
+END
+Ip.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Ip.php
+END
+Regex.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Regex.php
+END
+Between.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Between.php
+END
+CreditCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/CreditCard.php
+END
+PostCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/PostCode.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Date.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Exception.php
+END
+Int.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Int.php
+END
+Hostname.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Hostname.php
+END
+InArray.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/InArray.php
+END
+Identical.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/proetica/!svn/ver/23/SysAdmin/library/Zend/Validate/Identical.php
+END

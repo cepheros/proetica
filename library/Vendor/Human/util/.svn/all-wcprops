@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/proetica/!svn/ver/23/SysAdmin/library/Vendor/Human/util
+END
+HumanConnectionHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/proetica/!svn/ver/23/SysAdmin/library/Vendor/Human/util/HumanConnectionHelper.php
+END
+HumanResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/proetica/!svn/ver/23/SysAdmin/library/Vendor/Human/util/HumanResponse.php
+END
+HumanAutoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/proetica/!svn/ver/23/SysAdmin/library/Vendor/Human/util/HumanAutoloader.php
+END
+HumanHTTPHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/proetica/!svn/ver/23/SysAdmin/library/Vendor/Human/util/HumanHTTPHelper.php
+END
