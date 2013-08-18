@@ -1,55 +1,0 @@
-10
-
-dir
-28
-http://svn.r2d2/proetica/SysAdmin/application/configs/NFe/schemes
-http://svn.r2d2/proetica
-
-
-
-2013-05-15T19:44:24.141541Z
-23
-
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-b40e16fd-1a4e-4fbe-98cc-2360eebe436e
-
-CCe
-dir
-
-MDFe
-dir
-
-NFSe
-dir
-
-PL_006n
-dir
-
-PL_006p
-dir
-
-PL_006q
-dir
-
-PL_CTE_104
-dir
-
-PL_DPEC_101a
-dir
-
-PL_v1.01b
-dir
-
